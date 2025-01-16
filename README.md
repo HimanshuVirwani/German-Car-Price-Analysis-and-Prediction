@@ -1,4 +1,4 @@
-# German-Car-Price-Analysis-and-Prediction# Car Price Prediction and Analysis
+# German-Car-Price-Analysis-and-Prediction
 
 ## Project Overview
 This project focuses on analyzing a dataset of used cars to uncover actionable insights and build a predictive model for car prices. The goal is to address the challenges faced by "Check25," a used car sales company, which has experienced a 15% decline in sales and a €250,000 revenue loss. By understanding customer preferences and improving pricing strategies, this project aims to help the company regain its market share.
